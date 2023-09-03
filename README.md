@@ -2,7 +2,7 @@
 
 The Neo_Analog_Clock project is a web-based implementation of an analog clock using HTML, CSS, and JavaScript. This digital clock provides a visual representation of the current time with customizable clock hands.
 
-![Neo_Analog_Clock](clock.png)
+![Neo_Analog_Clock](Screenshot(47).png)
 
 ## Features
 
