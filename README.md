@@ -50,6 +50,6 @@ This project is open-source and available under the [MIT License](LICENSE.md).
 
 ## Contact
 
-If you have any questions or suggestions, please contact us at [your_email@example.com](mailto:abhisekhnayek1.com).
+If you have any questions or suggestions, please contact us at [abhisekhnayek1.com](mailto:abhisekhnayek1.com).
 
 ---
